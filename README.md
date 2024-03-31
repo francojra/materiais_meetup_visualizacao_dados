@@ -5,5 +5,5 @@
 ### Materiais:
 1. Apresentação da palestra;
 2. Script com exemplos de pacotes do tidyverse;
-3. Script com exemplos de gráficos ggplot2
+3. Script com códigos de gráficos do ggplot2
 4. Tabela de dados.
