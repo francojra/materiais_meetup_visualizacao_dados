@@ -1,6 +1,6 @@
 # Materiais do Meetup "Explorando a visualização de dados no R com tidyverse"
 
-## Este repositório contem todos os materiais utilizados no Meetup "Explorando a visualização de dados no R com tidyverse" da comunidade R-Ladies Natal.
+## Este repositório contém todos os materiais utilizados no Meetup "Explorando a visualização de dados no R com tidyverse" da comunidade R-Ladies Natal.
 
 ### Materiais:
 1. Apresentação da palestra;
